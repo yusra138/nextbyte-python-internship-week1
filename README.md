@@ -1,5 +1,5 @@
 # nextbyte-python-internship-week1
-# NextByte Studio – Python Internship (Week 1)
+
 
 **Student:** Yusra Yaseen  
 **Task:** Python Setup & Basics  
